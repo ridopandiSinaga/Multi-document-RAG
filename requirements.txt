@@ -4,3 +4,4 @@ openai
 chromadb
 tiktoken
 pdfplumber
+langchain_community
